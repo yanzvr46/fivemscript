@@ -5,7 +5,7 @@ Config.Stashes = {
         id = "stash_mazebank",
         label = "Mazebank Stash",
         coords = vec3(-244.45, -2080.62, 27.65),
-        key = "kunci_mazebank",
+        key = "kunci_mazebank",               ---------------ini ganti item saja
         slots = 80,
         weight = 200000
     },
